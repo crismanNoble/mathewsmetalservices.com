@@ -1,0 +1,21 @@
+{
+  "name": "client--mms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    ">0%"
+  ],
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.72.0"
+  }
+}
